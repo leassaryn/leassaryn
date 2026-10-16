@@ -8,13 +8,16 @@
 &nbsp;
 <img src="https://cdn.simpleicons.org/zig/B79AC7" width="18" height="18">
 &nbsp;
-<img src="https://cdn.simpleicons.org/rust/B79AC7" width="18" height="18">
+<img src="https://cdn.simpleicons.org/c++/B79AC7" width="18" height="18">
+&nbsp;
+<img src="https://cdn.simpleicons.org/elixir/B79AC7" width="18" height="18">
 &nbsp;
 <img src="https://cdn.simpleicons.org/bun/B79AC7" width="18" height="18"></div><br><div align="center"><h3>about</h3><sub>
 Learning and building with modern tools.
 <br>
-Currently learning Android, Kotlin, Rust, Zig, and Bun.
+<!--Currently learning Android, Kotlin, Rust, Zig, and Bun.
 <br>
+  -->
 Experimenting with different languages and technologies along the way.
 </sub></div><br><br>
 
