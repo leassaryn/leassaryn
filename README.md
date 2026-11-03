@@ -20,9 +20,13 @@ Learning and building with modern tools.
   -->
 Experimenting with different languages and technologies along the way.
 </sub></div><br><br>
-
-<div align="center"><h3> stats </h3><br><img src="https://github-readme-stats.vercel.app/api?username=leassaryn&show_icons=true&hide_border=true&bg_color=00000000&title_color=C9A7E8&icon_color=C9A7E8&text_color=D6D0DD&rank_icon=github" width="390">  
-
+<!--
+<div align="center"><h3> stats </h3><br><img src="https://github-readme-stats.vercel.app/api?username=leassaryn&show_icons=true&hide_border=true&bg_color=00000000&title_color=C9A7E8&icon_color=C9A7E8&text_color=D6D0DD&rank_icon=github" width="390">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leassaryn&layout=compact&hide_border=true&bg_color=00000000&title_color=C9A7E8&text_color=D6D0DD" width="310"><br><br>
+-->
 
+<div align="center"><h3> stats </h3><br>
+<img src="https://ghstats.dev/api/card?username=lainzyy&theme=catppuccin&hide_border=true&hide_title=true&bg=0000" alt="GitHub Stats Card" />
+<!--
 <img src="https://streak-stats.demolab.com/?user=leassaryn&hide_border=true&background=00000000&ring=C9A7E8&fire=E3B6D0&currStreakLabel=C9A7E8&sideLabels=B8AEC5&dates=D6D0DD" width="500"></div>
+-->
